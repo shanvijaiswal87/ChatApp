@@ -58,15 +58,11 @@ A simple chat application built with React Native and Firebase. This app allows 
 ## Deployment
 The app can be hosted on Firebase Hosting for web access.
 Use the firebase deploy command to deploy the web version to Firebase Hosting.
-Contributing
+Contribution:
 Feel free to contribute to this project by creating issues or pull requests.
 
 
- ### In this README template:
-
- - Replace `# Chat Application` with your application's name.
- - Customize the sections with details specific to your project, including features, technologies used, installation instructions, usage instructions, deployment steps, contribution guidelines, and licensing information.
-
+ 
 
 
 
