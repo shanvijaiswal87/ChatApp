@@ -14,8 +14,8 @@ A simple chat application built with React Native and Firebase. This app allows 
 - Firebase Authentication
 - Firebase Firestore (for real-time database)
 - Firebase Hosting (for web deployment)
-- Expo (optional, if applicable)
-- React Navigation (for navigation, if used)
+- Expo (optional)
+- React Navigation (for navigation)
 
 ## Installation
 
